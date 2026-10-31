@@ -1,0 +1,33 @@
+# slot (as on FH-2 screen, 1-based)	name	description
+1	edo12	12 equal divisions of the octave
+2	edo15	15 equal divisions of the octave
+3	edo16	16 equal divisions of the octave
+4	edo17	17 equal divisions of the octave
+5	edo19	19 equal divisions of the octave
+6	edo22	22 equal divisions of the octave
+7	edo24	24 equal divisions of the octave
+8	edo31	31 equal divisions of the octave
+9	edo41	41 equal divisions of the octave
+10	edo53	53 equal divisions of the octave
+11	edo72	72 equal divisions of the octave
+12	gam_udanmas	Gamelan Udan Mas, pelog + slendro (approx. JI)
+13	gam_kanyut	Gamelan Kyahi Kanyut Mesem (Mangkunegaran, Solo), measured
+14	gam_alves	Bill Alves just-intonation gamelan, pelog + slendro
+15	gam_peliatan	Peliatan (Bali): gong kebyar selisir + gender wayang slendro, measured
+16	gam_malm	Javanese pelog + slendro (Malm), two measured stretched octaves, tumbuk 6
+17	gam_javavg	Average Javanese pelog + slendro, octave stretched to 1208 c, tumbuk 6
+18	ji_5lim	5-limit just intonation, 12 notes on C
+19	ji_7lim	7-limit just intonation, 12 notes on C
+20	pythag	Pythagorean 12, chain of pure fifths Gb..B
+21	meantone	Quarter-comma meantone, Eb..G#
+22	werck3	Werckmeister III well temperament (1681)
+23	harm08	Harmonic series 8-16
+24	harm16	Harmonic series 16-32
+25	partch43	Harry Partch's 43-tone just scale
+26	maqam_rast	Maqam Rast on C (24-EDO neutral E and B)
+27	bp_et	Bohlen-Pierce equal, 13 steps of 3/1
+28	bp_ji	Bohlen-Pierce just, 13 steps of 3/1
+29	carlos_a	Wendy Carlos Alpha, 77.965 c step
+30	carlos_b	Wendy Carlos Beta, 63.833 c step
+31	carlos_g	Wendy Carlos Gamma, 35.099 c step
+32	cet88	Gary Morrison 88-cent equal temperament
